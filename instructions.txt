@@ -1,0 +1,3 @@
+Instructions for deploying this site
+------------------------------------
+Lumi is learning to code; welcome to my work
