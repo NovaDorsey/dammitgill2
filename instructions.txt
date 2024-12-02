@@ -1,3 +1,7 @@
 Instructions for deploying this site to the server
 --------------------------------------------------
 Lumi is learning to code; welcome to my work
+
+
+changes made for course
+----------------------
